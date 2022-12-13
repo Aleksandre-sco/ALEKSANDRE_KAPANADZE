@@ -13,8 +13,6 @@ public class Main {
                 .forEach(product-> System.out.println(product));
 
 
-
-
     }
 
 }
